@@ -33,7 +33,7 @@ setButtons( mediaSize );
 
 // add event listener for reset button
 document.getElementById( 'restart' ).addEventListener( 'click', function () {
-	buildDeck( 'userDifficulty' );
+	buildDeck( userDifficulty );
 } );
 
 // add event listener for replay button from modal
