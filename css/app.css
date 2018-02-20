@@ -189,6 +189,7 @@ td {
   /* Background pattern from Subtle Patterns */
   font-family: "Rock Salt", cursive;
   align-items: center;
+  auto;
 }
 
 .modal-text {
